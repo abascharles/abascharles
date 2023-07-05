@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **You can rech me through my email: abascharlesbenard@gmail.com**
 
-- ⚡ Fun fact **I like to and travel, and explore new technologies when I'm not codding, I'm funny**
+- ⚡ Fun fact **I'm funny and I like to and travel when not coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
