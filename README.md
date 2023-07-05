@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **I’m always happy to talk about anything tech related, such as Android development, web development, cloud services, or projects I have worked on or contributed to. I can also share my challenges and achievements as a software developer and how I overcome difficulties or solve problems and what motivates me into software development.**
 
-- 📫 How to reach me **abascharlesbenard@gmail.com**
+- 📫 How to reach me **You can rech me through my email: abascharlesbenard@gmail.com**
 
 - ⚡ Fun fact **I like to and travel, and explore new technologies when I'm not codding, I'm funny**
 
