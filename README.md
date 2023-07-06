@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/blackk_abass" target="blank"><img src="https://img.shields.io/twitter/follow/blackk_abass?logo=twitter&style=for-the-badge" alt="blackk_abass" /></a> </p>
 
-- 🔭 I’m currently working on **I am involved in various projects, such as developing personalized learning solutions using AI, and constantly upgrading my skills with the latest technologies**
+- 🔭 I’m currently working on ** in various projects, such as developing personalized learning solutions using AI, and constantly upgrading my skills with the latest technologies**
 
-- 🌱 I’m currently learning **Currently, I am learning Angular, a popular framework for building dynamic web applications. But, as a software developer, I’m always on the lookout for new tools in the market that can enhance my productivity and creativity. I believe in continuous learning and self-improvement as a way to keep up with the latest trends and technologies in the field**
+- 🌱 I’m currently learning ** Angular, a popular framework for building dynamic web applications. But, as a software developer, I’m always on the lookout for new tools in the market that can enhance my productivity and creativity. I believe in continuous learning and self-improvement as a way to keep up with the latest trends and technologies in the field**
 
-- 💬 Ask me about **I’m always happy to talk about anything tech related, such as Android development, web development, cloud services, or projects I have worked on or contributed to. I can also share my challenges and achievements as a software developer and how I overcome difficulties or solve problems and what motivates me into software development.**
+- 💬 Ask me about **anything tech related, such as Android development, web development, cloud services, or projects I have worked on or contributed to. I can also share my challenges and achievements as a software developer and how I overcome difficulties or solve problems and what motivates me into software development.**
 
 - 📫 How to reach me **You can rech me through my email: abascharlesbenard@gmail.com**
 
