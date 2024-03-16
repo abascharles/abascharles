@@ -1,7 +1,6 @@
 
 <h1 align="center">AC (Abas Charles) </h1>
 
-![](https://komarev.com/ghpvc/?username=abascharles&abbreviated=true)
 
 
 ![My Custom Alt Text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
