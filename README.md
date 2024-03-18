@@ -13,8 +13,8 @@
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://example.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://example.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://http://abascharles.me/index.html#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https:/http://abascharles.me/index.html#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
