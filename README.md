@@ -5,11 +5,7 @@
 
 ![My Custom Alt Text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-# 💫 About Me
-<br>1.	**Background**: I am a dedicated computer science professional with a profound interest in leveraging technology to address real-world challenges. Holding a degree in Computer Science has been instrumental in equipping me with extensive knowledge in the field.<br><br>2.	
-**Leadership and Innovation**: Demonstrating adept leadership in project management and a flair for developing innovative technological solutions, my experience spans leading projects from conception to completion. This showcases my ability to guide teams toward achieving strategic objectives.<br><br>3.	**Technical Proficiency**: My technical versatility is evident through proficiency in various programming languages. Adaptability is a cornerstone of my skill set, allowing me to seamlessly integrate new technologies and address a spectrum of technical challenges.<br><br>4.	
-**Africa Market Expertise**: With a cultivated understanding of the African technology market, I specialize in tailoring solutions to meet the unique needs of users in this region. This expertise ensures that my contributions consistently have a substantial and relevant impact.<br><br>5.	
-**Impactful Contributions in Software Development**: I have mase significant contributions to the development of the (KEMRI)EIDVL software—a pivotal tool for managing medical records in Kenya. Additionally, I initiated the Hesin campaign and webpage to support campus students in need.  These achievements underscore my ability to make a meaningful impact in my software development roles.<br>
+
 
 ### Connect with me
 
