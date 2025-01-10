@@ -3,9 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abas-charles&color=blue)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
-</p>
+![My Custom Alt Text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 
 
