@@ -1,7 +1,7 @@
 <h1 align="center">AC (Abas Charles) </h1>
 
 
-![](https://komarev.com/ghpvc/?username=abas-charles&color=green)
+![](https://komarev.com/ghpvc/?username=abas-charles&color=yellow)
 
 ### About Me
 
@@ -59,9 +59,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="http://www.github.com/abascharles">
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=abascharles&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
-  
 </p>
 
+> [!WARNING]
+> Man cannot obtain anything without first sacrificing something. In order to
+> obtain anything, something of equal value is required. That is
+> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
+> the true way of the world.
+>
+> ― ***Alphonse Elric***
 
 <h5 align="center">
 Jalupo | ---
