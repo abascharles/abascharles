@@ -1,16 +1,10 @@
-
 <h1 align="center">AC (Abas Charles) </h1>
 
 ![](https://komarev.com/ghpvc/?username=abas-charles&color=blue)
 
 ![My Custom Alt Text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-
-
-
-
 ### Connect with me
-
 [![website](./img/globe-light.svg)](http://abascharles.me/index.html#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://abascharles.me/index.html#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -23,8 +17,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/abas-charles-91821b282#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abas-charles-91821b282#gh-dark-mode-only)
 
-
-
 ### Languages and tools
 <br/>
 <div align="center">
@@ -32,9 +24,6 @@
     <br>
 </div>
 <br/>
-
-</p><br>
-
 
 ### Stats
 <p align="center">
