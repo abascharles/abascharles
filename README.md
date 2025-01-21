@@ -60,10 +60,12 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 </p>
 
 <p align="center">
-  <a href="http://www.github.com/abascharles">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=abascharles&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=abascharles&theme=javascript&hide_border=false" alt="GitHub Streak" height="137px" width="350px" />
   </a>
 </p>
+
+
 
 
 > [!WARNING]
