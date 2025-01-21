@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=abas-charles&color=yellow)
 
 ### About Me
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 🤖, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️.
-
+A CS graduate 🎓
+<br/>
+I'm  versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 🤖, Desktop App Developer 🖥️, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff, providing effective solutions 🛠️.
 
 ### Tech Stack
 
@@ -70,5 +70,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 > ― ***Alphonse Elric***
 
 <h5 align="center">
+    Solve Problem first then write Code
+    <br>
 Jalupo | ---
 </h5>
