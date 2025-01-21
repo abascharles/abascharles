@@ -55,11 +55,10 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 <p align="center">
 
 <a href="http://www.github.com/abascharles">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abascharles&show_icons=true&hide_title=true&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&hide_border=true" alt="abascharles's GitHub stats" />
-<a href="http://www.github.com/abascharles">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=abascharles&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-</p>
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abascharles&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abascharles&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
 
 > [!WARNING]
 > Man cannot obtain anything without first sacrificing something. In order to
