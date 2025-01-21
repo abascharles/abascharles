@@ -75,7 +75,7 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 > ― ***Alphonse Elric***
 
 <h5 align="center">
-    Solve Problem first, then write Code
+    Solve the Problem first, then write Code
     <br>
 Jalupo | ---
 </h5>
