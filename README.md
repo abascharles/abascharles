@@ -43,12 +43,12 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 
 ### Full Stack Projects
 
-[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-000)](http://abascharles.me)
+[![My Website](https://img.shields.io/badge/-🧬%20My%20Portfolio-000)](http://abascharles.me)
 
 
 ### Android/IOS Projects
 
-[![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/abascharles/SYN-Flood)
+[![SYN Flood](https://img.shields.io/badge/-🌊%20%20Jalupo-000)](https://github.com/abascharles/SYN-Flood)
 
 
 ### Stats
