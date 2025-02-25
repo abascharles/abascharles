@@ -16,6 +16,8 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
