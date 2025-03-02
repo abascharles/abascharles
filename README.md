@@ -6,7 +6,7 @@
 ### About Me
 A CS graduate 🎓
 <br/>
-I'm a versatile developer who easily adapts to different hats (Full Stack Web Developer 🌐, App Developer 🤖, Desktop App Developer 🖥️, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff, providing effective solutions 🛠️.
+I'm a versatile developer who easily adapts to different hats (Full Stack Web Developer 🌐, App Developer 🤖, Desktop App Developer 🖥️, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff, providing effective solutions 🛠️
 
 ### Tech Stack
 
