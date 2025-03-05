@@ -54,6 +54,7 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 
 
 ### Stats
+
 <p align="center">
   <a href="http://www.github.com/abascharles">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abascharles&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
