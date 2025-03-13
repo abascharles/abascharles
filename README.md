@@ -21,6 +21,7 @@ I'm a versatile developer who easily adapts to different hats (Full Stack Web De
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) 
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-000?&logo=React) 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) 
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart) 
